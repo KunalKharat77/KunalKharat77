@@ -248,15 +248,19 @@ making mistakes, and improving continuously.
 <div align="center">
 
 <a href="https://personal-portfolio-website-lime-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=googlechrome&logoColor=00D4FF" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/kunal-kharat-cse/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=4A9EFF" />
 </a>
-
+&nbsp;
+<a href="https://github.com/KunalKharat77">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=FFFFFF" />
+</a>
+&nbsp;
 <a href="mailto:kunalkharat2008@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=FF6B6B" />
 </a>
 
 </div>
