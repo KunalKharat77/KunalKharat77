@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:A855F7&height=180&section=header&text=Adesh%20Gangwal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:A855F7&height=180&section=header&text=Kunal%20Kharat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h3>B.Tech CSE Student • DSA • Web Development • AI</h3>
 
@@ -194,9 +194,9 @@ trying to learn every technology at once.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adeshgangwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kunalkharat77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshgangwal&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkharat77&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -206,7 +206,7 @@ trying to learn every technology at once.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adeshgangwal&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=kunalkharat77&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -216,7 +216,7 @@ trying to learn every technology at once.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adeshgangwal&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkharat77&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
