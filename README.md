@@ -129,7 +129,7 @@ HTML structure, CSS layouts, navigation, and frontend design skills.
 
 `HTML` `CSS`
 
-🔗 **Live Demo:** [Portfolio](https://kunalkharat77.github.io/Amazon_Homepage_Clone/)
+🔗 **Live Demo:** [Portfolio](https://amazon-homepage-clone-ivory.vercel.app/)
 
 🔗 **Source Code:** [GitHub Repository](https://github.com/KunalKharat77/Amazon_Homepage_Clone.git)
 
