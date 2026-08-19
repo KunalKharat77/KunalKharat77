@@ -190,38 +190,6 @@ trying to learn every technology at once.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kunalkharat77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkharat77&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kunalkharat77&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalkharat77&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 * [ ] Become stronger in Data Structures & Algorithms
